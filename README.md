@@ -27,8 +27,8 @@ This project is useful for anyone looking for a simple **Islamic Adhkar website*
 Clone the repository and open `index.html` directly in your browser:
 
 ```bash
-git clone https://github.com/mmagdym1/Azkar.git
-cd Azkar
+git clone https://github.com/mmagdym1/adhkar-morning-evening-app.git
+cd adhkar-morning-evening-app
 ```
 
 Then open `index.html`.
