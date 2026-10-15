@@ -22,12 +22,16 @@ This project is useful for anyone looking for a simple **Islamic Adhkar website*
 - Google Fonts
 - Inline SVG / UI effects
 
+## 🌐 Live Demo
+
+https://reyad-dev.github.io/adhkar-morning-evening-app/
+
 ## 🚀 Run Locally
 
 Clone the repository and open `index.html` directly in your browser:
 
 ```bash
-git clone https://github.com/mmagdym1/adhkar-morning-evening-app.git
+git clone https://github.com/reyad-dev/adhkar-morning-evening-app.git
 cd adhkar-morning-evening-app
 ```
 
