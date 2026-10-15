@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="repo-icon.svg" width="180" alt="Adhkar app icon" />
+</p>
+
 # Adhkar App — Morning & Evening Islamic Supplications | أذكار الصباح والمساء
 
 A lightweight web app for **morning and evening Adhkar (أذكار الصباح والمساء)** with an elegant Arabic-friendly interface, progress tracking, repetition counters, and separate morning/evening visual modes.
