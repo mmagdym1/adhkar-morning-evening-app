@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Adhkar app icon">
+<defs>
+  <linearGradient id="bg" x1="40" y1="40" x2="470" y2="470"><stop stop-color="#043A46"/><stop offset=".55" stop-color="#0A5562"/><stop offset="1" stop-color="#D88B28"/></linearGradient>
+  <linearGradient id="day" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFE47D"/><stop offset="1" stop-color="#FF914D"/></linearGradient>
+  <linearGradient id="night" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#052A43"/><stop offset="1" stop-color="#0C6978"/></linearGradient>
+  <filter id="g"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="28" y="28" width="456" height="456" rx="106" fill="url(#bg)"/>
+<path d="M132 358V205c0-70 52-101 124-150 72 49 124 80 124 150v153Z" fill="#092E3B" stroke="#FFD772" stroke-width="12"/>
+<path d="M145 346V207c0-57 43-84 111-131v270Z" fill="url(#night)"/>
+<path d="M256 76c68 47 111 74 111 131v139H256Z" fill="url(#day)"/>
+<circle cx="311" cy="223" r="45" fill="#FFE776" filter="url(#g)"/>
+<path d="M191 197c12-33 48-49 80-35-27 4-47 27-47 55 0 18 8 34 21 45-35-2-63-31-63-66 0-1 0-1 9 1Z" fill="#FFF4C1" filter="url(#g)"/>
+<g fill="#FFF0B2"><circle cx="177" cy="136" r="4"/><circle cx="220" cy="119" r="3"/><circle cx="207" cy="164" r="4"/><circle cx="162" cy="169" r="3"/></g>
+<path d="M152 315c28-18 57-26 87-26 27 0 48 8 70 19 20 10 40 16 64 15v35H152Z" fill="#082A3C" opacity=".9"/>
+<g fill="#0A2634"><path d="M175 321v-29h9v29h11v-37h9v37h22v-18h26v18h19v-31h10v31h20v-24h25v24h17v37H175Z"/></g>
+<path d="M120 365c71-47 175-48 269 2" fill="none" stroke="#0D5B54" stroke-width="20" stroke-linecap="round"/>
+<g fill="#0B6C62" stroke="#D4A943" stroke-width="3"><circle cx="126" cy="366" r="18"/><circle cx="158" cy="348" r="18"/><circle cx="192" cy="338" r="18"/><circle cx="228" cy="337" r="18"/><circle cx="264" cy="341" r="18"/><circle cx="300" cy="350" r="18"/><circle cx="335" cy="363" r="18"/><circle cx="367" cy="380" r="18"/></g>
+<path d="M384 386c20 17 30 38 32 62-17-15-33-19-48-15 4-19 1-33-11-44Z" fill="#0E806F" stroke="#D9B34B" stroke-width="4"/>
+</svg>
